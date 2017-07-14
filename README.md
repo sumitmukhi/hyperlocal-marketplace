@@ -1,4 +1,4 @@
-<h1>Marketplace Hyperlocal Android App</h1>
+<h1>Hyperlocal Marketplace Android App</h1>
 
 <p>Hyperlocal Mobile App will have great features for buyers as well as merchants. Sellers can add products, can set the distribution radius (in km), can set the max delivery time, can manage the store, and more. Buyers can purchase products from the nearest store using the mobile app on the go. Mobile App automatically detects the buyer&#39;s current location, or the buyer can set their location manually. Customers can check the availability of products and sellers. This module provides a unique user experience for buyers and sellers with user-friendly features and functions.</p>
 
